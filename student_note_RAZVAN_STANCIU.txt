@@ -1,0 +1,5 @@
+
+Student Name: Razvan Stanciu
+Date: 29.10.2025
+Task: Added student note file to repository
+Message: This is my first commit and push to GitHub. Learning Git basics!
